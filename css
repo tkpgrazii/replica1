@@ -1,3 +1,16 @@
 header{
     background: #bbbbbb;
     padding: 20px0;
+} 
+
+.caixa{
+    position:relative;
+    top: 940px;px
+    right:0 auto;
+} 
+
+nay{
+    position:absolute;
+    top:110px
+    right:0; 
+} 

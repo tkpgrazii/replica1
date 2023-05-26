@@ -9,8 +9,27 @@ header{
     right:0 auto;
 } 
 
-nay{
+nav{
     position:absolute;
     top:110px
     right:0; 
 } 
+
+nav li{
+    display: inline;
+    margin: 000 15px;
+
+}
+
+nav a{
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: hsl(258, 96%, 51%);
+text-decoration: underline;
+}
